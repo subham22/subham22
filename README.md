@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:DD0031&height=200&section=header&text=Subham%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Senior%20Angular%20%26%20Full-Stack%20Developer%20%E2%80%A2%20Gen%20AI&descAlignY=58&descSize=18&animation=fadeIn" alt="Subham Kumar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:DD0031&height=200&section=header&text=Subham%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Senior%20Angular%20and%20Full-Stack%20Developer%20%E2%80%A2%20Gen%20AI&descAlignY=58&descSize=18&animation=fadeIn" alt="Subham Kumar" />
 </p>
 
 <p align="center">
@@ -100,17 +100,15 @@ I'm a **frontend-focused full-stack developer and Tech Lead** with **9+ years** 
 
 ## 📊 GitHub stats
 
+<!-- Cards are generated daily into this repo by .github/workflows/profile-summary-cards.yml -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=subham22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details and contributions" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=subham22&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=subham22&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
 </p>
 
 ---
