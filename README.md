@@ -80,7 +80,7 @@ I'm a **frontend-focused full-stack developer and Tech Lead** with **9+ years** 
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
         <img src="https://img.shields.io/badge/LLM-Claude%20%2F%20OpenAI-D97757?style=flat-square" />
       </p>
-      <p>🟡 <i>In progress</i></p>
+      <p>✅ <b>Live at <a href="https://roamwise.live">roamwise.live</a></b> · 100+ free India travel guides · launching on Product Hunt on 5 Dec</p>
     </td>
     <td width="50%" valign="top">
       <h3>♿ A11yAudit</h3>
